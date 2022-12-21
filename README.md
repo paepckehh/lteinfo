@@ -15,6 +15,11 @@
 - Huawei E3372h / E3372v153 / E5572C
 - PRs welcome 
 
+## Install 
+```
+go install paepcke.de/lteinfo/cmd/lteinfo@latest
+```
+
 # Showtime 
 
 ```Shell
