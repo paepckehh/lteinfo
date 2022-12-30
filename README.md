@@ -15,12 +15,12 @@
 - Huawei E3372h / E3372v153 / E5572C
 - PRs welcome 
 
-## INSTALL
+# INSTALL
 ```
 go install paepcke.de/lteinfo/cmd/lteinfo@latest
 ```
 
-# DOWNLOAD (prebuild)
+### DOWNLOAD (prebuild)
 
 [github.com/paepckehh/lteinfo/releases](https://github.com/paepckehh/lteinfo/releases)
 
