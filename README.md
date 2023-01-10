@@ -1,6 +1,6 @@
 # OVERVIEW
 
-[paepche.de/lteinfo](https://paepcke.de/lteinfo)
+[paepche.de/lteinfo](https://paepcke.de/lteinfo/)
 
 - Show and decode information from your LTE Modem.
 - Hardware Revision, Firmware Version, Operational Status (core,env temp)
