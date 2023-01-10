@@ -29,6 +29,9 @@ go install paepcke.de/lteinfo/cmd/lteinfo@latest
 ```Shell
 lteinfo /dev/lte0
 ```
+# DOCS
+
+[pkg.go.dev/paepcke.de/lteinfo](https://pkg.go.dev/paepcke.de/lteinfo)
 
 # CONTRIBUTION
 
