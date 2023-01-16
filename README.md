@@ -5,8 +5,8 @@
 
 - Show and decode information from your LTE Modem.
 - Hardware Revision, Firmware Version, Operational Status (core,env temp)
-- Signal, Provider, Visible Network Infra capabilities around, ... 
-- Sim, IMEI, MVNO, authentication mode, Frequencies, ....
+- All Provider and Visible Network Infrastructure (capabilities eg, cell-broadcast,...)
+- SIM, IMEI, MVNO, authentication mode, used Frequencies/Transponder ....
 - Focus on small embedded systems (debugging) on restricted resources.
 - Focus onpower saving parser (NO CLEAN idomatic go code for hot loop, no clean full state maschine, quick hack)
 - 100 % pure go, stdlib only, no external dependencies, use as app or api (see api.go)
