@@ -1,5 +1,5 @@
 # OVERVIEW
-[![Go Report Card](https://goreportcard.com/badge/paepcke.de/lteinfo)](https://goreportcard.com/report/paepcke.de/lteinfo)
+[![Go Reference](https://pkg.go.dev/badge/paepcke.de/lteinfo.svg)](https://pkg.go.dev/paepcke.de/lteinfo) [![Go Report Card](https://goreportcard.com/badge/paepcke.de/lteinfo)](https://goreportcard.com/report/paepcke.de/lteinfo)
 
 [paepche.de/lteinfo](https://paepcke.de/lteinfo/)
 
