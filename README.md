@@ -1,4 +1,5 @@
 # OVERVIEW
+[![Go Report Card](https://goreportcard.com/badge/paepcke.de/lteinfo)](https://goreportcard.com/report/paepcke.de/lteinfo)
 
 [paepche.de/lteinfo](https://paepcke.de/lteinfo/)
 
