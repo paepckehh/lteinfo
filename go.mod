@@ -1,3 +1,3 @@
 module paepcke.de/lteinfo
 
-go 1.20
+go 1.22.3
