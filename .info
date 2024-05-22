@@ -1,0 +1,7 @@
+lteinfo [configure, connect, display, verify]
+
+verified working devices
+ HUAWEI
+  + E3372 	  [ USB alternate profile vendor: 0x12d1 / product: 0x1505 / NCM Mode / FBSD: MSC_EJECT_HUAWEI2 ]
+  + E5573CS-322 [ USB alternate profile vendor: 0x12d1 / product: 0x155e / NCM Mode / FBSD: MSC_EJECT_HUAWEI4 ]
+  + E5573CS-322 [ USB alternate profile vendor: 0x12d1 / product: 0x1442 / TTY Mode / FBSD: MSC_EJECT_HUAWEI  ]
